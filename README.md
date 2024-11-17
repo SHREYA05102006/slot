@@ -25,7 +25,7 @@ Execute the program using runserver command.
 
 ## PROGRAM
 '''
-    <html>
+    
     <head>
         <title>Slot Timetable</title>
     </head>
@@ -120,7 +120,7 @@ Execute the program using runserver command.
             </tr>
 
     </body>
-    <html>
+    
 
 '''
 
